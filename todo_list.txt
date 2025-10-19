@@ -1,3 +1,4 @@
-sasasas | dota
-sasa | dota
-sasasa | sss
+sasasas | dota | 0
+sasa | dota | 0
+sasasa | sss | 0
+helllo world | dota | 0
